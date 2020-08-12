@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Victor :wave:
 
-<!--
-**nagahamaVH/nagahamaVH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data scientist, statistician and aspiring musician
 
-Here are some ideas to get you started:
+- [x] Bachelor in Statistics (2014-2018, State University of Maringa)
+- [] Artificial Intelligence Residency Program (2020, SENAI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests are in data science, artificial intelligence, music and literature. Check out [my blog](https://nagahamavh.github.io/) to see some data analysis projects.
+
+- :briefcase: Working on: HUB of Artificial Intelligence SENAI
+- :man_health_worker: Linkedin: [nagahamavh](https://www.linkedin.com/in/nagahamavh/)
+- :books: My blog: [nagahamavh](https://nagahamavh.github.io/)
+- :email: Contact me: victorh.nagahama@gmail.com
