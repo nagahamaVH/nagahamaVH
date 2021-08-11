@@ -3,7 +3,7 @@
 ### Data scientist, statistician and aspiring musician
 
 - [x] Bachelor in Statistics (2014-2018, State University of Maringa)
-- [ ] Artificial Intelligence Residency Program (2020-present, SENAI)
+- [x] Artificial Intelligence Residency Program (2020-2021, SENAI)
 
 My interests are in data science, artificial intelligence, music and literature. Check out [my blog](https://nagahamavh.github.io/) to see data analysis projects and my band [Colombus St.](https://open.spotify.com/artist/5SQAdEZsSYnJoAz5dfaWn8?si=1bfmfU36RI-en3eKm-hHRA) to listen good music :smiley:.
 
